@@ -14,7 +14,9 @@ Also include a clear description of the Database scema used in your module, so i
 
 Hello, I'm Cyril Kimbi [The TechPreneur] UI/UX Designer for the TOPSELL project and I'm excited to share the Figma design I created.
  This design was created to help achieve the project objectives of creating an engaging and intuitive user experience for our website visitors.
+ # Access Design [ https://www.figma.com/file/Qw992MMHnHMZpI59wnxpLS/INVENTORY-SYS?type=design&t=H5lfuy2nb8g4hDpd-1 ]
 
+ 
 # Design Goals
 The design goals for this Figma design were to:
 
